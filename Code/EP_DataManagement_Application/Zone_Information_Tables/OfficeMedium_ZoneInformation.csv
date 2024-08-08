@@ -1,0 +1,17 @@
+! <Zone Information>,Zone Name,North Axis {deg},Origin X-Coordinate {m},Origin Y-Coordinate {m},Origin Z-Coordinate {m},Centroid X-Coordinate {m},Centroid Y-Coordinate {m},Centroid Z-Coordinate {m},Type,Zone Multiplier,Zone List Multiplier,Minimum X {m},Maximum X {m},Minimum Y {m},Maximum Y {m},Minimum Z {m},Maximum Z {m},Ceiling Height {m},Volume {m3},Zone Inside Convection Algorithm {Simple-Detailed-CeilingDiffuser-TrombeWall},Zone Outside Convection Algorithm {Simple-Detailed-Tarp-MoWitt-DOE-2-BLAST},Floor Area {m2},Exterior Gross Wall Area {m2},Exterior Net Wall Area {m2},Exterior Window Area {m2},Number of Surfaces,Number of SubSurfaces,Number of Shading SubSurfaces,Part of Total Building Area
+Zone Information,CORE_BOTTOM,0.0,0.00,0.00,0.00,24.96,16.64,1.37,1,1,1,4.57,45.34,4.57,28.70,0.00,2.74,2.74,2698.04,TARP,TARP,983.54,0.00,0.00,0.00,6,0,0,Yes
+Zone Information,CORE_MID,0.0,0.00,0.00,0.00,24.96,16.64,5.33,1,1,1,4.57,45.34,4.57,28.70,3.96,6.71,2.74,2698.04,TARP,TARP,983.54,0.00,0.00,0.00,6,0,0,Yes
+Zone Information,CORE_TOP,0.0,0.00,0.00,0.00,24.96,16.64,9.30,1,1,1,4.57,45.34,4.57,28.70,7.92,10.67,2.74,2698.04,TARP,TARP,983.54,0.00,0.00,0.00,6,0,0,Yes
+Zone Information,MIDFLOOR_PLENUM,0.0,0.00,0.00,0.00,24.96,16.64,7.32,1,1,1,0.00,49.91,0.00,33.27,6.71,7.92,1.22,2024.76,TARP,TARP,1660.73,202.84,202.84,0.00,14,0,0,No
+Zone Information,PERIMETER_BOT_ZN_1,0.0,0.00,0.00,0.00,24.96,2.16,1.37,1,1,1,0.00,49.91,0.00,4.57,0.00,2.74,2.74,568.77,TARP,TARP,207.34,136.92,67.75,65.26,6,5,0,Yes
+Zone Information,PERIMETER_BOT_ZN_2,0.0,0.00,0.00,0.00,47.82,16.64,1.37,1,1,1,45.34,49.91,0.00,33.27,0.00,2.74,2.74,360.08,TARP,TARP,131.26,91.28,45.82,43.51,6,3,0,Yes
+Zone Information,PERIMETER_BOT_ZN_3,0.0,0.00,0.00,0.00,24.96,31.11,1.37,1,1,1,0.00,49.91,28.70,33.27,0.00,2.74,2.74,568.77,TARP,TARP,207.34,136.92,67.75,65.26,6,5,0,Yes
+Zone Information,PERIMETER_BOT_ZN_4,0.0,0.00,0.00,0.00,2.09,16.64,1.37,1,1,1,0.00,4.57,0.00,33.27,0.00,2.74,2.74,360.05,TARP,TARP,131.25,91.28,45.82,43.51,6,3,0,Yes
+Zone Information,PERIMETER_MID_ZN_1,0.0,0.00,0.00,0.00,24.96,2.16,5.33,1,1,1,0.00,49.91,0.00,4.57,3.96,6.71,2.74,568.77,TARP,TARP,207.34,136.92,71.65,65.26,6,1,0,Yes
+Zone Information,PERIMETER_MID_ZN_2,0.0,0.00,0.00,0.00,47.82,16.64,5.33,1,1,1,45.34,49.91,0.00,33.27,3.96,6.71,2.74,360.08,TARP,TARP,131.26,91.28,47.77,43.51,6,1,0,Yes
+Zone Information,PERIMETER_MID_ZN_3,0.0,0.00,0.00,0.00,24.96,31.11,5.33,1,1,1,0.00,49.91,28.70,33.27,3.96,6.71,2.74,568.77,TARP,TARP,207.34,136.92,71.65,65.26,6,1,0,Yes
+Zone Information,PERIMETER_MID_ZN_4,0.0,0.00,0.00,0.00,2.09,16.64,5.33,1,1,1,0.00,4.57,0.00,33.27,3.96,6.71,2.74,360.05,TARP,TARP,131.25,91.28,47.77,43.51,6,1,0,Yes
+Zone Information,PERIMETER_TOP_ZN_1,0.0,0.00,0.00,0.00,24.96,2.16,9.30,1,1,1,0.00,49.91,0.00,4.57,7.92,10.67,2.74,568.77,TARP,TARP,207.34,136.92,71.65,65.26,6,1,0,Yes
+Zone Information,PERIMETER_TOP_ZN_2,0.0,0.00,0.00,0.00,47.82,16.64,9.30,1,1,1,45.34,49.91,0.00,33.27,7.92,10.67,2.74,360.08,TARP,TARP,131.26,91.28,47.77,43.51,6,1,0,Yes
+Zone Information,PERIMETER_TOP_ZN_3,0.0,0.00,0.00,0.00,24.96,31.11,9.30,1,1,1,0.00,49.91,28.70,33.27,7.92,10.67,2.74,568.77,TARP,TARP,207.34,136.92,71.65,65.26,6,1,0,Yes
+Zone Information,PERIMETER_TOP_ZN_4,0.0,0.00,0.00,0.00,2.09,16.64,9.30,1,1,1,0.00,4.57,0.00,33.27,7.92,10.67,2.74,360.05,TARP,TARP,131.25,91.28,47.77,43.51,6,1,0,Yes
