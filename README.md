@@ -16,7 +16,7 @@ To address these challenges, we have developed a solution that builds on top of 
 
 We offer a user-friendly, GUI-based interface for conducting energy simulations through EnergyPlus, allowing users to customize options for building type, climate, and schedules, all powered by the Opyplus library. The application, built entirely in Python using Plotly-Dash, provides interfaces for data generation, aggregation, and visualization, making the entire process more intuitive and efficient.
 
-![Schematic of the GUI-Based Application](assets/gui_schematic.png "Fig 1: Schematic of the GUI-Based Application")
+![Schematic of the GUI-Based Application](assets/app_schematic.png "Fig 1: Schematic of the GUI-Based Application")
 
 
 ### Data Generation
@@ -39,9 +39,9 @@ The Data Visualization interface allows users to generate time-series plots for 
 
 ![Data Visualization GIF](assets/data_visualization.gif "Data Visualization App")
 
-![Visualizing Zone Temperatures in the Visualization App](assets/zone_temps_visualization.png "Fig 2: Visualizing Zone Temperatures in the Visualization App")
+![Visualizing Zone Temperatures in the Visualization App](assets/multiple_plot.png "Fig 2: Visualizing Zone Temperatures in the Visualization App")
 
-![Schematic of the Database](assets/database_schematic.png "Fig 3: Schematic of the Database")
+![Schematic of the Database](assets/Database_Structure_20240808.png "Fig 3: Schematic of the Database")
 
 
 # Data Management Capabilities
